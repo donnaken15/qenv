@@ -1,0 +1,33 @@
+package wesley.qscript;
+
+public enum Type {
+	Undefined,
+	Integer,
+	Float,
+	CString,
+	WString,
+	Pair,
+	Vector,
+	Script,
+	CFunc,
+	Unk9,
+	Struct,
+	UnkB,
+	Array,
+	Name,
+	UnkE,
+	UnkF,
+	Unk10,
+	Unk11,
+	Unk12,
+	Unk13,
+	Unk14,
+	Unk15,
+	Unk16,
+	Unk17,
+	Unk18,
+	Unk19,
+	Reference,
+	Unk1B,
+	Unk1C
+}
